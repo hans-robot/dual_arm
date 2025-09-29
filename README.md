@@ -1,7 +1,4 @@
-# dual_arm
 # 双臂自碰撞安全检测系统
-
-`Dual-Arm Self-Collision Detection and Safety System`
 
 ## 📖 产品概述
 
@@ -29,7 +26,6 @@
 | :--- | :--- |
 | **处理器架构** | 必须使用 **x86** 架构处理器（不兼容 ARM 等） |
 | **Python 版本** | 必须严格使用 **Python 3.8** |
-| **依赖安装** | 运行前，必须安装 `requirements.txt` 中的全部依赖 |
 
 ### 安装与运行
 
