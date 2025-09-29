@@ -50,5 +50,3 @@
       ```bash
       python3 robot_arm_client.py
       ```
-
-## 📁 项目文件结构
