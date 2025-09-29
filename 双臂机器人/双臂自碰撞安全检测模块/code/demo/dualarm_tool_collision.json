@@ -1,0 +1,19 @@
+{
+    "L_tool": {
+        "L_tool_index": 6 ,
+        "start": [0, 0, -0.04],
+        "end": [0, 0, 0.125],
+        "radius": 0.047,
+        "type": "capsule",
+        "referenceFrame": "ToolFrame"
+    },
+
+    "R_tool": {
+        "R_tool_index": 16 ,
+        "start": [0, 0, -0.04],
+        "end": [0, 0, 0.125],
+        "radius": 0.047,
+        "type": "capsule",
+        "referenceFrame": "ToolFrame"
+    }
+}
